@@ -1,1 +1,4 @@
-# DSA-Mini-Project
+National Institute of Technology Silchar, 
+MiniProject-I, 
+Data Structures, 
+Course Code: CS 201
